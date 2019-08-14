@@ -9,10 +9,10 @@ In this project one can display different charts using dynamic data from mongodb
 ## Getting Started
 ```
 # The easiest way to get started is to clone the repository:
-git clone https://github.com/hiralyshah/chartjs_mongoose_mongoDB.git myChart
+git clone https://github.com/ICOVZLA/CHARTJS-MONGODB.git 
 
 # Change directory
-cd myChart
+cd /your_dir
 
 # Install NPM dependencies
 npm install
@@ -71,7 +71,7 @@ package-lock.json | Contains exact versions of NPM dependencies in package.json.
 
 ## Authors
 
-* [hiral shah](https://github.com/hiralyshah)
+* [Enderson Marín](https://github.com/ICOVZLA)
 
 ## License
 
