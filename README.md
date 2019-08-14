@@ -77,7 +77,7 @@ package-lock.json | Contains exact versions of NPM dependencies in package.json.
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## Ducumentación
 
 * https://www.chartjs.org/
 
